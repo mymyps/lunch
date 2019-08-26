@@ -8,7 +8,7 @@ import com.kh_lunch.model.vo.Lunch;
 import com.kh_lunch.view.LunchView;
 
 public class LunchController {
-	
+
 	private LunchServices lunSrvs = new LunchServices();
 	
 	public void lunchController(){
