@@ -44,7 +44,9 @@ public class LunchView {
 					break;
 				}
 				
-			}//if
+			}else {
+				System.out.println("다시 입력하시오");
+			}
 
 		}
 		
@@ -118,7 +120,9 @@ public class LunchView {
 					break;
 				}
 
-			}//if
+			}else {
+				System.out.println("다시 입력하시오");
+			}
 
 		}
 
